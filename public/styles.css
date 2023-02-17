@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+canvas {
+    width: 640px;
+    height: 480px;
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: 10px 10px 30px 2px black;
+    background-color: lightgreen;
+}
